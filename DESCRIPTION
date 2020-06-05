@@ -1,0 +1,17 @@
+Type: Compendium
+Package: ucsb_r_workshop
+Title: UCSB R Workshop
+Version: 0.0.1
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: UCSB R Workshop
+License: What license it uses
+Depends: 
+    tidyverse
+    rmarkdown
+Encoding: UTF-8
+LazyData: true
